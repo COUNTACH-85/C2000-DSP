@@ -1,0 +1,28 @@
+# TI Code Composer Studio (CCS) / Eclipse build artifacts
+Generated Binaries/
+CPU1_RAM/
+/Debug/
+/Release/
+/*.map
+/*.out
+/*.obj
+/*.d
+/*.txt
+/*.crf
+/*.pbi
+
+# Target configurations (only if they are local user specific)
+# targetConfigs/*.ccxml
+
+# Generated files from SysConfig
+# (Uncomment this if you only want to commit the c2000.syscfg source file)
+# SysConfig/
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Common compiler/IDE files to ignore
+.settings/
+.project
+.cproject
