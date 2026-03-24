@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/main.c"
+   },
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/pi_controller.c"
+   },
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/hal.c"
+   },
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control\" -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/device\" -I\"C:/ti/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_LAUNCHXL_F28379D -DCPU1 -I\"C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "C:/Users/Amitesh/workspace_ccstheia/PI_Motor_Control/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]
