@@ -11,6 +11,8 @@ A collection of DSP projects for the **Texas Instruments TMS320F28379D** (C2000 
 | [`Triangular_waveform`](./Triangular_waveform) | Generates a triangular wave output via the on-chip DAC by linearly ramping up and down. |
 | [`Sawtooth`](./Sawtooth) | Generates a sawtooth wave output via the on-chip DAC by incrementing the DAC value and wrapping around. |
 | [`Pwm_adc_interaction`](./Pwm_adc_interaction) | Demonstrates closed-loop PWM duty-cycle control driven by ADC readings, using EPWM1 to trigger ADC conversions and DMA to transfer samples. |
+| [`PI_Motor_Control`](./PI_Motor_Control) | Implements a closed-loop PI motor speed controller: ADC potentiometer sets the target RPM, a quadrature encoder measures actual speed, and ePWM drives the motor. Includes a simulation mode for bench testing without hardware. |
+| [`Voltage_Sensor`](./Voltage_Sensor) | Reads an analog voltage on ADCA channel 0 (12-bit single-ended) and prints the raw ADC count and calculated voltage over the JTAG CIO console, with a heartbeat LED on GPIO 31. |
 
 ## Hardware
 
